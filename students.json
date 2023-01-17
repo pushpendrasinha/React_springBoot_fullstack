@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "firstname": "Ankit",
+      "middlename": "kumar",
+      "lastname": "Sinha",
+      "email": "ankit@email.com",
+      "mobile": "1234567890",
+      "address": "Bishunpur",
+      "city": "Dhanbad",
+      "state": "Jharkhand",
+      "id": 6
+    },
+    {
+      "firstname": "Santosh",
+      "middlename": "",
+      "lastname": "Kumari",
+      "email": "navo@email.com",
+      "mobile": "1234567890",
+      "address": "Mount Abu ",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "id": 7
+    },
+    {
+      "firstname": "Professor",
+      "middlename": "X",
+      "lastname": "Xavier",
+      "email": "xavier@email.com",
+      "mobile": "9807961234",
+      "address": "1234 Mt Saint",
+      "city": "Xavierwoods",
+      "state": "Wood Villas",
+      "id": 8
+    },
+    {
+      "firstname": "Raju Karan",
+      "middlename": "Kumar ",
+      "lastname": "Gupta",
+      "email": "raju@email.com",
+      "mobile": "7001234567",
+      "address": "New Jharia",
+      "city": "Rajpur",
+      "state": "Bihar",
+      "id": 9
+    }
+  ]
+}
