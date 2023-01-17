@@ -1,0 +1,7 @@
+Instructions to setup application local workspace
+
+
+1. Go Inside the frontend folder and install npm :- npm install
+2. Import backend folder in eclipse/STS and run as spring boot app
+3. install JSON-server
+4. Run json-server inside the folder where students.json file is available :- JSON-server --watch students.json --port 5000
